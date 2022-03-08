@@ -1,2 +1,3 @@
 #!/bin/bash
-cat head 10 /etc/passwd
+cat head10  /etc/passwd
+
